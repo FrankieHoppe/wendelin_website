@@ -119,7 +119,7 @@ nav a.nav_item{
     border-radius: 10px;
     min-width: 300px;
 }
-@media(max-width: 575px){
+@media(max-width: 800px){
     .flexbox_outer{
         flex-wrap: wrap;
     }
